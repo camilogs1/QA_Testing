@@ -1,0 +1,14 @@
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.exe
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.deps.json
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.runtimeconfig.json
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.runtimeconfig.dev.json
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.dll
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\bin\Debug\netcoreapp3.1\Seguimiento2.pdb
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.csproj.AssemblyReference.cache
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.AssemblyInfoInputs.cache
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.AssemblyInfo.cs
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.csproj.CoreCompileInputs.cache
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.dll
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.pdb
+C:\Users\312C-30\source\repos\Seguimiento2\Seguimiento2\obj\Debug\netcoreapp3.1\Seguimiento2.genruntimeconfig.cache
