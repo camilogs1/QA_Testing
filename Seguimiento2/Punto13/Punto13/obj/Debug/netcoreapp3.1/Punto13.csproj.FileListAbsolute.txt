@@ -1,0 +1,13 @@
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.exe
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.deps.json
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.runtimeconfig.json
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.runtimeconfig.dev.json
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.dll
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\bin\Debug\netcoreapp3.1\Punto13.pdb
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.csprojAssemblyReference.cache
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.AssemblyInfoInputs.cache
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.AssemblyInfo.cs
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.csproj.CoreCompileInputs.cache
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.dll
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.pdb
+E:\Cg\Programas\Git\QA_Testing\Seguimiento2\Punto13\Punto13\obj\Debug\netcoreapp3.1\Punto13.genruntimeconfig.cache
