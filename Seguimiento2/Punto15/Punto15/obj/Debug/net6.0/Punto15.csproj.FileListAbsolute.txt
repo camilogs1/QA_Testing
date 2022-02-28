@@ -1,0 +1,15 @@
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\bin\Debug\net6.0\Punto15.exe
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\bin\Debug\net6.0\Punto15.deps.json
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\bin\Debug\net6.0\Punto15.runtimeconfig.json
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\bin\Debug\net6.0\Punto15.dll
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\bin\Debug\net6.0\Punto15.pdb
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.csproj.AssemblyReference.cache
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.AssemblyInfoInputs.cache
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.AssemblyInfo.cs
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.csproj.CoreCompileInputs.cache
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.dll
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\refint\Punto15.dll
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.pdb
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\Punto15.genruntimeconfig.cache
+C:\Users\mazoa\Desktop\Universidad\2022-1\Validacion\Punto15\Punto15\obj\Debug\net6.0\ref\Punto15.dll
