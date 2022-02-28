@@ -1,0 +1,16 @@
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.exe
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.deps.json
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.runtimeconfig.json
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.runtimeconfig.dev.json
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\ref\Punto10.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\bin\Debug\net5.0\Punto10.pdb
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.csproj.AssemblyReference.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.AssemblyInfoInputs.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.AssemblyInfo.cs
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.csproj.CoreCompileInputs.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\ref\Punto10.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.pdb
+C:\Users\312C-31\Documents\VerificacionV\Punto10\Punto10\obj\Debug\net5.0\Punto10.genruntimeconfig.cache
