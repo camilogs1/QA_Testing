@@ -1,0 +1,16 @@
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.exe
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.deps.json
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.runtimeconfig.json
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.runtimeconfig.dev.json
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\ref\Punto14.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\bin\Debug\net5.0\Punto14.pdb
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.csproj.AssemblyReference.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.AssemblyInfoInputs.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.AssemblyInfo.cs
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.csproj.CoreCompileInputs.cache
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\ref\Punto14.dll
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.pdb
+C:\Users\312C-31\Documents\VerificacionV\Punto14\Punto14\obj\Debug\net5.0\Punto14.genruntimeconfig.cache
