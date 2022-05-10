@@ -11,3 +11,215 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1652138688857	geckodriver	INFO	Listening on 127.0.0.1:63449
+1652138691926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileY3Eu7t"
+1652138692360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileY3Eu7t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63450/devtools/browser/2c5e1f60-bc4a-4e23-b858-6766356a2600
+1652138694228	Marionette	INFO	Listening on port 63472
+Read port: 63472
+1652138694301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652138713493	Marionette	INFO	Stopped listening on port 63472
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652138782440	geckodriver	INFO	Listening on 127.0.0.1:63593
+1652138785474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileEVZapK"
+1652138785860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileEVZapK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63594/devtools/browser/ad385204-a146-4598-9cbb-b2036180867e
+1652138787821	Marionette	INFO	Listening on port 63618
+Read port: 63618
+1652138787899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652138807994	Marionette	INFO	Stopped listening on port 63618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652138824830	geckodriver	INFO	Listening on 127.0.0.1:63723
+1652138827907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileYjOz4o"
+1652138828311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileYjOz4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63724/devtools/browser/8b05eab6-ea39-4dbb-99a8-21f4c2034d53
+1652138830380	Marionette	INFO	Listening on port 63748
+Read port: 63748
+1652138830459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652138835415	Marionette	INFO	Stopped listening on port 63748
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652138892591	geckodriver	INFO	Listening on 127.0.0.1:63795
+1652138895661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilezvxtXX"
+1652138896060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilezvxtXX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63796/devtools/browser/bfa85bb4-a3c8-4995-8e25-a08d69052487
+1652138898069	Marionette	INFO	Listening on port 63820
+Read port: 63820
+1652138898146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652138912315	Marionette	INFO	Stopped listening on port 63820
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652138933370	geckodriver	INFO	Listening on 127.0.0.1:63921
+1652138936412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile8728HK"
+1652138936796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile8728HK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63922/devtools/browser/21fe3c89-f753-4be1-ba18-8ea73f50222e
+1652138938914	Marionette	INFO	Listening on port 63946
+Read port: 63946
+1652138939041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652138948586	Marionette	INFO	Stopped listening on port 63946
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652138965839	geckodriver	INFO	Listening on 127.0.0.1:64037
+1652138968890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileTPGOfH"
+1652138969283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileTPGOfH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64038/devtools/browser/ad638786-ad08-49cb-8afb-49ec7e2b6eea
+1652138971120	Marionette	INFO	Listening on port 64059
+Read port: 64059
+1652138971181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652139001045	Marionette	INFO	Stopped listening on port 64059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652140126961	geckodriver	INFO	Listening on 127.0.0.1:64411
+1652140130022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile2JenIJ"
+1652140130401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile2JenIJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64412/devtools/browser/b00de776-9fb2-470b-b638-55457e6102f0
+1652140132115	Marionette	INFO	Listening on port 64435
+Read port: 64435
+1652140132206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652140191264	Marionette	INFO	Stopped listening on port 64435
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652140401010	geckodriver	INFO	Listening on 127.0.0.1:64624
+1652140404076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilep8YuIU"
+1652140404457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilep8YuIU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64625/devtools/browser/8fcaf79f-6580-4796-8710-b712d1f2a5c6
+1652140406439	Marionette	INFO	Listening on port 64652
+Read port: 64652
+1652140406522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.funlam.edu.co/, line 329: ReferenceError: SyntaxHighlighter is not defined
+1652140683227	Marionette	INFO	Stopped listening on port 64652
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141146517	geckodriver	INFO	Listening on 127.0.0.1:65168
+1652141149567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile8xSdpu"
+1652141149974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile8xSdpu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65169/devtools/browser/d6e6bf40-6dd0-4bab-8980-3e9c8d6ff069
+1652141152188	Marionette	INFO	Listening on port 65195
+Read port: 65195
+1652141152313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652141153001	Marionette	INFO	Stopped listening on port 65195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652141178930	geckodriver	INFO	Listening on 127.0.0.1:65223
+1652141182010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilelpCVec"
+1652141182393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilelpCVec\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65224/devtools/browser/a164febf-b412-49f8-93d7-741f9a16aef3
+1652141184401	Marionette	INFO	Listening on port 65249
+Read port: 65249
+1652141184470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1652141238377	Marionette	INFO	Stopped listening on port 65249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141243559	geckodriver	INFO	Listening on 127.0.0.1:65313
+1652141246614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile1OjGkJ"
+1652141247009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile1OjGkJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65314/devtools/browser/53d08504-edad-4bb1-a731-9f88c301b20f
+1652141249055	Marionette	INFO	Listening on port 65340
+Read port: 65340
+1652141249192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1652141563733	Marionette	INFO	Stopped listening on port 65340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141598904	geckodriver	INFO	Listening on 127.0.0.1:49189
+1652141601996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileNKAY5x"
+1652141602418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofileNKAY5x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49190/devtools/browser/f84b51d0-3fa9-426f-8f01-822b1acb2e08
+1652141604154	Marionette	INFO	Listening on port 49212
+Read port: 49212
+1652141604236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141722791	Marionette	INFO	Stopped listening on port 49212
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141770650	geckodriver	INFO	Listening on 127.0.0.1:49343
+1652141773708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile5NpOqx"
+1652141774119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofile5NpOqx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49344/devtools/browser/4d413012-5edf-4302-8e05-9499bd489ee5
+1652141775856	Marionette	INFO	Listening on port 49367
+Read port: 49367
+1652141775930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141791597	Marionette	INFO	Stopped listening on port 49367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141807943	geckodriver	INFO	Listening on 127.0.0.1:49427
+1652141811018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilefm1WMp"
+1652141811410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilefm1WMp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49428/devtools/browser/2ce86332-ccf9-455e-8e8f-983e4a5b4b30
+1652141813412	Marionette	INFO	Listening on port 49455
+Read port: 49455
+1652141813464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141869914	Marionette	INFO	Stopped listening on port 49455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652141880183	geckodriver	INFO	Listening on 127.0.0.1:49517
+1652141883241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilegTTs5J"
+1652141883614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sneyd\\AppData\\Local\\Temp\\rust_mozprofilegTTs5J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49518/devtools/browser/c8373143-7d9f-4e16-890f-9882a830ccbb
+1652141885435	Marionette	INFO	Listening on port 49541
+Read port: 49541
+1652141885568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i2_p4/ym/l/es_ES/eeIQ46Cso25.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652141899130	Marionette	INFO	Stopped listening on port 49541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
